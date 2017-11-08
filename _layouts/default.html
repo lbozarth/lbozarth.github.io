@@ -17,14 +17,12 @@
   <body>
 
       <header>
-        <h1>{{ site.title | default: Lia C. Bozarth }}</h1>
-        <p>{{ site.description | default: 2nd Year PhD Student at University of Michigan, School of Information (UMSI).}}</p>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
-
-
       </div><!-- end banner -->
 
     <div class="wrapper">
