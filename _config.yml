@@ -3,6 +3,7 @@ description: 2nd Year PhD student at University of Michigan, School of Informati
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+homepage_url: index
 cv_url: cv.md
 project_url: project.md
 nonacademic_url: nonacademic.md
