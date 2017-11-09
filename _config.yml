@@ -1,11 +1,6 @@
-title: Lia C. Bozarth
-description: 2nd Year PhD student at University of Michigan, School of Information (UMSI).
+title: Lia C Bozarth
+description: 2nd Year PhD student at University of Michigan, School of Information (UMSI)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
-homepage_url: index.md
-cv_url: cv.md
-project_url: project.md
-nonacademic_url: nonacademic.md
-github.owner_name: Lia Bozarth
 

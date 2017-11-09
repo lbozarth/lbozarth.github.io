@@ -17,16 +17,16 @@
   <body>
 
       <header>
-        <h1>{{ site.title | default: Lia C. Bozarth }}</h1>
-        <p>{{ site.description | default: 2nd Year PhD student at University of Michigan, School of Information (USMI).}}</p>
+        <h1>{{ site.title | default: "Lia C Bozarth" }}</h1>
+        <p>{{ site.description | default: "2nd Year PhD student at University of Michigan, School of Information"}}</p>
       </header>
 
       <div id="banner">
         <span id="logo"></span>
-        <a href="{{ site.hompage_url }}" class="button fork"><strong>Homepage</strong></a>
-        <a href="{{ site.cv_url }}" class="button fork"><strong>CV</strong></a>
-        <a href="{{ site.project_url }}" class="button fork"><strong>Projects</strong></a>
-        <a href="{{ site.nonacademic_url }}" class="button fork"><strong>Non-academic</strong></a>
+        <a href="index.html" class="button"><strong>Homepage</strong></a>
+        <a href="{{site.url}}/assets/static/cv_lbozarth.pdf" class="button"><strong>CV</strong></a>
+        <a href="projects.html" class="button"><strong>Projects</strong></a>
+        <a href="nonacademic.html" class="button"><strong>Non-academic</strong></a>
       </div><!-- end banner -->
 
     <div class="wrapper">

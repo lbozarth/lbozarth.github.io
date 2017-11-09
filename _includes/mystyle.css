@@ -1,0 +1,32 @@
+<style>
+#profile_image {
+height:50%;
+width:50%; 
+float:left;
+border:2px double;
+padding: 2px;
+margin: 5px;
+}
+
+div.profile_div {
+padding:2px;
+margin: 5px;
+}
+
+div.sec_div {
+margin-bottom:25px;
+}
+
+.small_img {
+height:45px;
+width:45px;
+}
+
+.basic_img {
+height:75%;
+width:75%; 
+border:2px solid;
+}
+</style>
+
+
