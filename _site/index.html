@@ -35,10 +35,12 @@
 
       <div id="banner">
         <span id="logo"></span>
-        <a href="index.html" class="button"><strong>Homepage</strong></a>
-        <a href="http://localhost:4000/assets/static/cv_lbozarth.pdf" class="button"><strong>CV</strong></a>
-        <a href="projects.html" class="button"><strong>Projects</strong></a>
-        <a href="nonacademic.html" class="button"><strong>Non-academic</strong></a>
+	<div id="pages">
+		<a href="index.html" class="button"><strong>Homepage</strong></a>
+		<a href="http://localhost:4000/assets/static/cv_lbozarth.pdf" class="button"><strong>CV</strong></a>
+		<a href="projects.html" class="button"><strong>Projects</strong></a>
+		<a href="nonacademic.html" class="button"><strong>Non-academic</strong></a>
+	</div>
       </div><!-- end banner -->
 
     <div class="wrapper">
@@ -65,6 +67,11 @@ div.sec_div {
 margin-bottom:25px;
 }
 
+#social img {
+	float:right;
+	margin-left: 5px;
+}
+
 .small_img {
 height:45px;
 width:45px;
@@ -74,6 +81,16 @@ width:45px;
 height:75%;
 width:75%; 
 border:2px solid;
+}
+
+#pages {
+float: right;
+margin-right: 50px;
+}
+
+.logo_img{
+height: 40px;
+width: 40px
 }
 </style>
 
@@ -105,6 +122,11 @@ border:2px solid;
 <div id="service" class="sec_div">
 <h3>Academic Service</h3>
 <p>I'm currently serving as a student representative within the <i>Student Life</i> and <i>Academic Affairs</i> subcommittees in Rackham Student Government at the University level. Within the School of Information (SI), I'm the primary coordinator for the <i>Computational Social Science Reading Group</i> and I also assist in setting up events for SI's <i>LGBTQ</i> student group.</p>
+</div>
+
+<div id="social" class="sec_div">
+			<a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="assets/pics/linkedin.png" /></a>
+			<a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="assets/pics/twitter.png" /></a>
 </div>
 
 

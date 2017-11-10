@@ -35,4 +35,9 @@ layout: default
 <p>I'm currently serving as a student representative within the <i>Student Life</i> and <i>Academic Affairs</i> subcommittees in Rackham Student Government at the University level. Within the School of Information (SI), I'm the primary coordinator for the <i>Computational Social Science Reading Group</i> and I also assist in setting up events for SI's <i>LGBTQ</i> student group.</p>
 </div>
 
+<div id="social" class="sec_div">
+			<a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
+			<a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
+</div>
+
 

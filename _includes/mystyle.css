@@ -17,6 +17,11 @@ div.sec_div {
 margin-bottom:25px;
 }
 
+#social img {
+	float:right;
+	margin-left: 5px;
+}
+
 .small_img {
 height:45px;
 width:45px;
@@ -26,6 +31,16 @@ width:45px;
 height:75%;
 width:75%; 
 border:2px solid;
+}
+
+#pages {
+float: right;
+margin-right: 50px;
+}
+
+.logo_img{
+height: 40px;
+width: 40px
 }
 </style>
 
