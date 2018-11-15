@@ -35,7 +35,7 @@ layout: default
 <div id="thepress" class="sec_div">
 <h3>In the Press</h3>
 <p>Joyojeet Pal & Lia Bozarth, “How Modi lost his mojo and Rahul roared to life on Twitter”, Quartz (2018). <a href="https://qz.com/india/1441312/how-narendra-modi-rahul-gandhi-have-performed-on-indian-twitter/">Article Link</a></p>
-<p>Joyojeet Pal & Lia Bozarth, “Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?”, Economic and Political Weekly (2018). <a href="https://www.epw.in/engage/article/tweeting-indian-languages-helping-politicians-widen-reach">Article Link</a></p>
+<p>Joyojeet Pal & Lia Bozarth, “Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?”, Economic and Political Weekly (2018). <a href="{{site.url}}/assets/static/epw_01.pdf">Download</a></p>
 </div>
 
 <div id="service" class="sec_div">
