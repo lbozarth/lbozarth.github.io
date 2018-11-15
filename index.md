@@ -11,7 +11,7 @@ layout: default
 	</div>
 	<div class="profile_div">
 	<h3>Short Biography</h3>
-	<p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon & Google) as a software engineer for a few years. I'm currently a 3nd year doctoral student with research focus on Computational Social Science at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+	<p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon & Google) as a software engineer for a few years. I'm currently a 3nd year doctoral student at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
 		<div id="contact_info">
 			<dl>
 			<dt>Contact Information</dt>
@@ -20,6 +20,11 @@ layout: default
 		</div>
 	</div>
 <div>
+
+<div id="interests" class="sec_div">
+<h3>Research Interest</h3>
+<p>I'm interested in applying computational methods to study and address pitfalls and safeguards in online political communications.</p>
+</div>
 
 <div id="publication" class="sec_div">
 <h3>Publication</h3>
@@ -33,16 +38,9 @@ layout: default
 <p>Joyojeet Pal & Lia Bozarth, “Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?”, Economic and Political Weekly (2018). <a href="https://www.epw.in/engage/article/tweeting-indian-languages-helping-politicians-widen-reach">Article Link</a></p>
 </div>
 
-
-
-<div id="interests" class="sec_div">
-<h3>Research Interest</h3>
-<p>I'm interested in applying computational methods to study and address pitfalls and safeguards in online political communications.</p>
-</div>
-
 <div id="service" class="sec_div">
 <h3>Academic Service</h3>
-<p>I'm currently serving as a student representative within the <i>Student Life</i> and <i>Academic Affairs</i> subcommittees in Rackham Student Government at the University level. Within the School of Information (SI), I'm the primary coordinator for the <i>Computational Social Science Reading Group</i> and I also assist in setting up events for SI's <i>LGBTQ</i> student group.</p>
+<p>Within the School of Information (SI), I'm the primary coordinator for the <i>Computational Social Science Reading Group</i> and I also assist in setting up events for SI's <i>LGBTQ</i> student group. Additionally, I served as a student representative within the <i>Student Life</i> and <i>Academic Affairs</i> subcommittees in Rackham Student Government at the University level. </p>
 </div>
 
 <div id="social" class="sec_div">
