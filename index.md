@@ -36,7 +36,7 @@ layout: default
 <h3>In Progress</h3>
 <p>Lia Bozarth, Anmol Panda, Joyojeet Pal, “From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India. <a href="{{site.url}}/assets/static/IndiaTwitterPaper.pdf">Download</a></p>
 <p>Lia Bozarth, Aparajita Saraf, Ceren Budak, “Higher Ground? How Groundtruth Labeling Impacts Our Understanding of the Spread of Fake News During the 2016 Election”. <a href="{{site.url}}/assets/static/Fakenews_groundtruth2.pdf">Download</a></p>
-<p>Lia Bozarth, Ceren Budak, “Lay it Out: Detecting of Fake News Publishers through Website Structure Data”. <a href="{{site.url}}/assets/static/Fakenews_clf.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, “Lay it Out: Detecting of Fake News Publishers through Website Structure Data”. <a href="{{site.url}}/assets/static/Fakenew_clf.pdf">Download</a></p>
 <p>Lia Bozarth, Ceren Budak, “Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests”. <a href="{{site.url}}/assets/static/SMO_cscw2019.pdf">Download</a></p>
 </div>
 
