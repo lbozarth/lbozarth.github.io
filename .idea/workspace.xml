@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2c01717-5c22-4f8d-bbea-dd6fd9091fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/static/Fakenew_clf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/static/IndiaTwitterPaper.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/static/SMO_cscw2019.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nonacademic.html" beforeDir="false" afterPath="$PROJECT_DIR$/nonacademic.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +33,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/static" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

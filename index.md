@@ -11,7 +11,7 @@ layout: default
 	</div>
 	<div class="profile_div">
 	<h3>Short Biography</h3>
-	<p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon & Google) as a software engineer for a few years. I'm currently a 3rd year doctoral student at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+	<p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon & Google) as a software engineer for a few years. I'm currently a 3rd year doctoral candidate at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
 		<div id="contact_info">
 			<dl>
 			<dt>Contact Information</dt>
@@ -33,11 +33,12 @@ layout: default
 </div>
 
 <div id="underreview" class="sec_div">
-<h3>Under Review</h3>
-<p>Lia Bozarth, Anmol Panda, Joyojeet Pal, “From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India. <a href="{{site.url}}/assets/static/ECSCW_journal_paper.pdf">Download</a></p>
+<h3>In Progress</h3>
+<p>Lia Bozarth, Anmol Panda, Joyojeet Pal, “From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India. <a href="{{site.url}}/assets/static/IndiaTwitterPaper.pdf">Download</a></p>
 <p>Lia Bozarth, Aparajita Saraf, Ceren Budak, “Higher Ground? How Groundtruth Labeling Impacts Our Understanding of the Spread of Fake News During the 2016 Election”. <a href="{{site.url}}/assets/static/Fakenews_v3.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, “Lay it Out: Detecting of Fake News Publishers through Website Structure Data”. <a href="{{site.url}}/assets/static/Fakenews_clf.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, “Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests”. <a href="{{site.url}}/assets/static/SMO_cscw2019.pdf">Download</a></p>
 </div>
-
 
 <div id="thepress" class="sec_div">
 <h3>In the Press</h3>
