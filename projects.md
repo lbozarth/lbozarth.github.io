@@ -7,20 +7,10 @@ layout: default
 
 <div class="sec_div project_div">
 <h3>Projects on Fake News</h3>
-<h4>Higher Ground? How Groundtruth Labeling Impacts Our Understanding of the Spread of Fake News During the 2016 Election</h4>
-<p>Sources differ in what they consider to be fake news sites. We observe that depending on the groundtruth, the prevalence of fake news varies significantly but temporal patterns do not. In addition, we show that the age, popularity, and ideological leaning of fake news sites are uncorrelated with whether it is more likely to be listed as fake news by a given source comparing to another. Finally, the agenda-setting difference between fake and real news sites remain relatively constant across different groundtruth lists. This project is currently under review. <a href="{{site.url}}/assets/static/Fakenews_groundtruth2.pdf">Download</a></p>
-<p>Collaborators: Ceren Budak, Aparajita Saraf</p>
 
 <h4>Lay it Out: Detecting Fake News Publishers through Website Structure Data</h4>
 <p>We propose a novel website structure based domain-level fake news detection model that has performance results surprisingly comparable to that of existing content-based methods. Through feature analysis, we highlight that fake news sites have more clustered subpages and more <i>ads</i> links, whereas traditional news sites are more substantive and more likely to contain <i>staff</i> links. We also demonstrate that the performance of existing content-based models improve significantly by incorporating structural features, particularly when the definitions for fake and traditional news sites are lax. This project is currently between submissions. <a href="{{site.url}}/assets/static/Fakenew_clf.pdf">Download</a></p>
 <p>Collaborators: Ceren Budak</p>
-</div>
-
-<div class="sec_div project_div">
-<h3>Projects on Political Elites</h3>
-<h4>From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India</h4>
-<p>Classifying 1711 Indian political elites on Twitter and studying their feeds of about 4.6 million messages, we find that politicians are indeed more keen on establishing personal branding through low-substance, positive-focused messaging rather than broadcasting hard policies stands. Moreover, compared to the party in power, opposition politicians collectively post more detailed tweets and demonstrate higher negativity, especially regarding corruption, on social media. Finally, through contextual human examination of the most retweeted messages from two key leaders - the prime minister and the leader of the opposition, we find that there are qualitatively important distinctions between both the styles of key politicians. This project is currently between submissions. <a href="{{site.url}}/assets/static/IndiaTwitterPaper.pdf">Download</a></p>
-<p>Collaborators: Joyojeet Pal, Anmol Panda</p>
 </div>
 
 <div class="sec_div project_div">
