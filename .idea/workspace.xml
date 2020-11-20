@@ -34,7 +34,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c01717-5c22-4f8d-bbea-dd6fd9091fac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/static/liabozarth_resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/static/liabozarth_resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/liabozarth_resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/static/liabozarth_resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +63,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_site/assets/static" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_site/assets/static" />
       <recent name="$PROJECT_DIR$/assets/static" />
     </key>
   </component>

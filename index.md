@@ -23,7 +23,7 @@ layout: default
 
 <div id="interests" class="sec_div">
 <h3>Research Interest</h3>
-<p>I'm interested in applying computational methods to study and address pitfalls and safeguards in online political communications. My most recent studies focus on fake news including but not limited to 1) examine to what extent different groundtruth labels impact downstream analysis, 2) evaluate performance of and biases in existing fake news models, and 3) explore methods that can effectively curtail fake news. My ongoing research projects also include studying online movements, protest strategies, and outcome.</p>
+<p>I'm interested in applying computational methods to address pitfalls and safeguards in online political communication. My most recent studies focus on fake news including but not limited to 1) examine to what extent different groundtruth labels impact downstream analysis, 2) evaluate performance of and biases in existing fake news models, and 3) explore methods that can effectively curtail fake news. My other ongoing research projects also include studying online movements, protest strategies, and outcome.</p>
 </div>
 
 <div id="publication" class="sec_div">
