@@ -38,7 +38,8 @@ layout: default
 </div>
 
 <div id="thepress" class="sec_div">
-<h3>Awards & In the Press</h3>
+<h3>Awards, Articles, and In the Press</h3>
+<p>Robert Bond, Lia Bozarth, Ceren Budak, Kelly Garrett, Jason Jones, Drew Margolin, "The Case for Studying Obscure Falsehoods." forthcoming, Harvard Kennedy School Misinformation Review (2021)</p>
 <p>Lia Bozarth, Ceren Budak, "Profit for You and Me: Exploring Ad Servers on Fake News Sites", Best poster for the category "Most Likely to Make a Societal Impact", MIDAS Symposium (2019) <a href="https://midas.umich.edu/2019-symposium-winners/">Award Link</a></p>
 <p>Joyojeet Pal, Lia Bozarth, "How Modi lost his mojo and Rahul roared to life on Twitter", Quartz (2018). <a href="https://qz.com/india/1441312/how-narendra-modi-rahul-gandhi-have-performed-on-indian-twitter/">Article Link</a></p>
 <p>Joyojeet Pal, Lia Bozarth, "Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?", Economic and Political Weekly (2018). <a href="http://localhost:4000/assets/static/epw_01.pdf">Download</a></p>
