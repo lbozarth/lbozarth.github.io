@@ -28,13 +28,13 @@ layout: default
 
 <div id="publication" class="sec_div">
 <h3>Publications</h3>
-<p>Lia Bozarth, Ceren Budak, "Market Forces: Quantifying the Role of Top Credible Ad Servers in the Fake News Ecosystem", forthcoming, ICWSM (2021) <a href="http://localhost:4000/assets/static/adsICWSM.pdf">Download</a></p>
-<p>Lia Bozarth, Ceren Budak, "Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests", in proceedings, New Media & Society (2020). <a href="http://localhost:4000/assets/static/NMS2020.pdf">Download</a></p>
-<p>Lia Bozarth, Ceren Budak, "Toward a Better Performance Evaluation Framework for Fake News Classification", in proceedings, ICWSM(2020).<a href="http://localhost:4000/assets/static/clf_eval.pdf">Download</a></p>
-<p>Lia Bozarth, Aparajita Saraf, Ceren Budak, "Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees", in proceedings, ICWSM (2020). <a href="http://localhost:4000/assets/static/groundtruth.pdf">Download</a></p>
-<p>Lia Bozarth, Anmol Panda, Joyojeet Pal, "From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India", in proceedings, ICTD (2020) <a href="http://localhost:4000/assets/static/corruption.pdf">Download</a></p>
-<p>Lia Bozarth, Joyojeet Pal, "Twitter Discourse as a Lens into Politicians' Interest in Technology and Development", in proceedings, ICTDX (2018). <a href="http://localhost:4000/assets/static/ICTDX_poster.pdf">Download</a></p>
-<p>Lia Bozarth, Ceren Budak, "Is Slacktivism Underrated? Measuring the Value of Slacktivists for Online Social Movements", in proceedings, ICWSM (2017). <a href="http://localhost:4000/assets/static/slack.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, "Market Forces: Quantifying the Role of Top Credible Ad Servers in the Fake News Ecosystem", forthcoming, ICWSM (2021) <a href="https://lbozarth.github.io/assets/static/adsICWSM.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, "Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests", in proceedings, New Media & Society (2020). <a href="https://lbozarth.github.io/assets/static/NMS2020.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, "Toward a Better Performance Evaluation Framework for Fake News Classification", in proceedings, ICWSM(2020).<a href="https://lbozarth.github.io/assets/static/clf_eval.pdf">Download</a></p>
+<p>Lia Bozarth, Aparajita Saraf, Ceren Budak, "Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees", in proceedings, ICWSM (2020). <a href="https://lbozarth.github.io/assets/static/groundtruth.pdf">Download</a></p>
+<p>Lia Bozarth, Anmol Panda, Joyojeet Pal, "From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India", in proceedings, ICTD (2020) <a href="https://lbozarth.github.io/assets/static/corruption.pdf">Download</a></p>
+<p>Lia Bozarth, Joyojeet Pal, "Twitter Discourse as a Lens into Politicians' Interest in Technology and Development", in proceedings, ICTDX (2018). <a href="https://lbozarth.github.io/assets/static/ICTDX_poster.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, "Is Slacktivism Underrated? Measuring the Value of Slacktivists for Online Social Movements", in proceedings, ICWSM (2017). <a href="https://lbozarth.github.io/assets/static/slack.pdf">Download</a></p>
 </div>
 
 <div id="thepress" class="sec_div">
@@ -43,7 +43,7 @@ layout: default
 <p>Lia Bozarth, Ceren Budak, "Profit for You and Me: Exploring Ad Servers on Fake News Sites", best poster for the category "Most Likely to Make a Societal Impact", MIDAS Data Symposium (2019) <a href="https://midas.umich.edu/2019-symposium-winners/">Award Link</a></p>
 <p>Lia Bozarth, Ceren Budak, “A Large-scale Study of Social Movement Organizations (SMOs) in Online Movements”, best poster honorable mention, MIDAS TweetCon (2019)</p>
 <p>Joyojeet Pal, Lia Bozarth, "How Modi lost his mojo and Rahul roared to life on Twitter", Quartz (2018). <a href="https://qz.com/india/1441312/how-narendra-modi-rahul-gandhi-have-performed-on-indian-twitter/">Article Link</a></p>
-<p>Joyojeet Pal, Lia Bozarth, "Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?", Economic and Political Weekly (2018). <a href="http://localhost:4000/assets/static/epw_01.pdf">Download</a></p>
+<p>Joyojeet Pal, Lia Bozarth, "Is Tweeting in Indian Languages Helping Politicians Widen Their Reach?", Economic and Political Weekly (2018). <a href="https://lbozarth.github.io/assets/static/epw_01.pdf">Download</a></p>
 </div>
 
 <div id="service" class="sec_div">
