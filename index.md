@@ -10,20 +10,26 @@ layout: default
 		<img id="profile_image" src="assets/pics/profile3.jpg" />
 	</div>
 	<div class="profile_div">
-	<h3>Short Biography</h3>
-	<p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon &amp; Google) as a software engineer for a few years. I'm currently a 5th year doctoral candidate at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
-		<div id="contact_info">
-			<dl>
-			<dt>Contact Information</dt>
-			<dd>Email: lbozarth AT umich DOT edu</dd>
-			</dl>
+        <h3>Short Biography</h3>
+        <p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon &amp; Google) as a software engineer for a few years. I'm currently a 5th year doctoral candidate at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+            <div id="contact_info">
+                <dl>
+                <dt>Contact Information</dt>
+                <dd>Email: lbozarth AT umich DOT edu</dd>
+                            <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
+                            <a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
+                            <a href="https://github.com/lbozarth"><img id="github" class="logo_img_long" src="{{relative}}assets/pics/github.png"  /></a>
+                </dl>
 		</div>
 	</div>
 <div>
 
 <div id="interests" class="sec_div">
 <h3>Research Interest</h3>
-<p>I'm interested in applying computational methods to address pitfalls and safeguards in online political communication. My most recent studies focus on fake news including but not limited to 1) examine to what extent different groundtruth labels impact downstream analysis, 2) evaluate performance of and biases in existing fake news models, and 3) explore methods that can effectively curtail fake news. My other ongoing research projects also include studying online movements, protest strategies, and outcome.</p>
+<p>I'm interested in applying computational methods to study and improve communication quality between heterogeneous actors on social media. I have worked 3 years as a full-stack software developer at top-tier tech firms, followed by 4 years of research experience in the field of computational social science.<br>
+<strong>Data Analysis Methods:</strong> network analysis, natural language processing, machine learning, data scraping and storage, data visualization, statistics, web services, and crowdsourcing (e.g., Mechanical Turk). <br>
+<strong>Programming Languages and Tools</strong>: Python, R, Java, Javascript, PHP & MySQL, Bash, Git, Google Cloud Services, Amazon AWS, Hadoop & Spark, Slurm, ElasticSearch, Mangodb, Pandas, Scikit-learn, Networkx, Twitter streaming API, Reddit API, Stanford NLP libraries, Pycharm and Jupyter.
+</p>
 </div>
 
 <div id="publication" class="sec_div">
@@ -53,10 +59,4 @@ layout: default
 <p>Served as facilitator for SI's <i>LGBTQ</i> student group.</p>
 <p>Served as a student representative within the <i>Student Life</i> and <i>Academic Affairs</i> subcommittees in Rackham Student Government at the University level. </p>
 </div>
-
-<div id="social" class="sec_div">
-			<a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
-			<a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
-</div>
-
 
