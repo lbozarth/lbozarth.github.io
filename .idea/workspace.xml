@@ -34,10 +34,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c01717-5c22-4f8d-bbea-dd6fd9091fac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/static/liabozarth_resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/static/liabozarth_resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/static/liabozarth_resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/static/liabozarth_resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +59,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_site/assets/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/static" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_site/assets/static" />
       <recent name="$PROJECT_DIR$/assets/static" />
+      <recent name="$PROJECT_DIR$/_site/assets/static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,20 +93,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="100" y="125" width="1673" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602547308371">
-      <screen x="0" y="27" width="1873" height="1053" />
-    </state>
-    <state x="100" y="125" width="1673" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1873.1053@0.27.1873.1053" timestamp="1602547308371" />
-    <state x="542" y="166" width="778" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602547904100">
-      <screen x="0" y="27" width="1873" height="1053" />
-    </state>
-    <state x="542" y="166" width="778" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1873.1053@0.27.1873.1053" timestamp="1602547904100" />
-    <state x="627" y="291" width="618" height="522" key="find.popup" timestamp="1605855491088">
-      <screen x="0" y="27" width="1873" height="1053" />
-    </state>
-    <state x="627" y="291" width="618" height="522" key="find.popup/0.27.1873.1053@0.27.1873.1053" timestamp="1605855491088" />
   </component>
   <component name="masterDetails">
     <states>
