@@ -26,9 +26,7 @@ layout: default
 
 <div id="interests" class="sec_div">
 <h3>Research Interest</h3>
-<p>I'm interested in applying computational methods to study and improve communication quality between heterogeneous actors on social media. I have worked 3 years as a full-stack software developer at top-tier tech firms, followed by 4 years of research experience in the field of computational social science.<br>
-<strong>Data Analysis Methods:</strong> network analysis, natural language processing, machine learning, data scraping and storage, data visualization, statistics, web services, and crowdsourcing (e.g., Mechanical Turk). <br>
-<strong>Programming Languages and Tools</strong>: Python, R, Java, Javascript, PHP & MySQL, Bash, Git, Google Cloud Services, Amazon AWS, Hadoop & Spark, Slurm, ElasticSearch, Mangodb, Pandas, Scikit-learn, Networkx, Twitter streaming API, Reddit API, Stanford NLP libraries, Pycharm and Jupyter.
+<p>I'm interested in applying computational methods to study and improve communication quality between heterogeneous actors on social media. I have worked 3 years as a full-stack software developer at top-tier tech firms, followed by 4 years of research experience in the field of computational social science. I have published numerous manuscripts in the field of fake news, online social movements, news media studies, and political communications.
 </p>
 </div>
 

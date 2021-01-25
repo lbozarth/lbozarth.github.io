@@ -34,6 +34,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c01717-5c22-4f8d-bbea-dd6fd9091fac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/static/cv_lbozarth_v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/static/liabozarth_resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
