@@ -26,7 +26,7 @@ layout: default
 
 <div id="interests" class="sec_div">
 <h3>Research Interest</h3>
-<p>I'm interested in applying computational methods to study and improve communication quality between heterogeneous actors on social media. I have worked 3 years as a full-stack software developer at top-tier tech firms, followed by 4 years of research experience in the field of computational social science. I have published numerous manuscripts in the field of fake news, online social movements, news media studies, and political communications.
+<p>I'm interested in using data science for social good. I have worked 3 years as a full-stack software developer at top-tier tech firms, followed by 4 years of research experience in the field of computational social science. I have published numerous manuscripts in the field of fake news, online social movements, news media studies, and political communications.
 </p>
 </div>
 
