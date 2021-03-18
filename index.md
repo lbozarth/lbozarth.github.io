@@ -33,6 +33,7 @@ layout: default
 <div id="publication" class="sec_div">
 <h3>Publications</h3>
 <p>Lia Bozarth, Ceren Budak, "Market Forces: Quantifying the Role of Top Credible Ad Servers in the Fake News Ecosystem", forthcoming, ICWSM (2021) <a href="https://lbozarth.github.io/assets/static/adsICWSM.pdf">Download</a></p>
+<p>Lia Bozarth, Ceren Budak, "An Analysis of the Partnership between Retailers and Low-credibility News Publishers", forthcoming, JQD:DM (2021) <a href="https://lbozarth.github.io/assets/static/ads_jqddm.pdf">Download</a></p>
 <p>Lia Bozarth, Ceren Budak, "Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests", in proceedings, New Media & Society (2020). <a href="https://lbozarth.github.io/assets/static/NMS2020.pdf">Download</a></p>
 <p>Lia Bozarth, Ceren Budak, "Toward a Better Performance Evaluation Framework for Fake News Classification", in proceedings, ICWSM(2020).<a href="https://lbozarth.github.io/assets/static/clf_eval.pdf">Download</a></p>
 <p>Lia Bozarth, Aparajita Saraf, Ceren Budak, "Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees", in proceedings, ICWSM (2020). <a href="https://lbozarth.github.io/assets/static/groundtruth.pdf">Download</a></p>
