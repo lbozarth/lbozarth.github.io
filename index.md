@@ -52,7 +52,7 @@ layout: default
 </div>
 
 <div id="underreview" class="sec_div">
-<h3>Under Review</h3>
+<h3>Manuscripts Under Review</h3>
 <p>Lia Bozarth, Ceren Budak, "Keyword Expansion Techniques for Mining Social Movement Data on Social Media"</p>
 <p>Chris Quarles, Lia Bozarth “How the term 'white privilege' affects online communication"</p>
 <p>Ceren Budak, Robert Bond, Lia Bozarth, Kelly Garrett, Jason Jones, Drew Margolin, “Bursts of Co-publication Among High and Low Credibility Online News Publishers Observed on Facebook”</p>
