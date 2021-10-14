@@ -11,7 +11,7 @@ layout: default
 	</div>
 	<div class="profile_div">
         <h3>Short Biography</h3>
-        <p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon &amp; Google) as a software engineer for a few years. I'm currently a 5th year doctoral candidate at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+        <p>Hi, I'm Lia. I grew up in the West Coast and earned my bachelors in computer science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon &amp; Google) as a software engineer for a few years. I'm currently a 6th year doctoral candidate at University of Michigan, School of Information. My advisor is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
             <div id="contact_info">
                 <dl>
                 <dt>Contact Information</dt>
