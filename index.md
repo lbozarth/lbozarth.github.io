@@ -11,18 +11,19 @@ layout: default
 	</div>
 	<div class="profile_div">
         <h3>Short Biography</h3>
-        <p>Hi, I'm Lia and I grew up in the West Coast. I earned my bachelors in Computer Science from the University of Washington, Seattle. Post undergrad, I worked in the industry (Amazon &amp; Google) as a software engineer for a few years. I'm currently a 6th year doctoral candidate at University of Michigan, School of Information. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
-        <div id="contact_info">
-                <dl>
-                <dt>Contact Information</dt>
-                <dd>Email: lbozarth AT umich DOT edu</dd>
-                            <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
-                            <a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
-                            <a href="https://github.com/lbozarth"><img id="github" class="logo_img_long" src="{{relative}}assets/pics/github.png"  /></a>
-                </dl>
-		</div>
+        <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked in the industry as a full stack software engineer for a few years. I'm currently a 6th year doctoral candidate at University of Michigan, School of Information. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
 	</div>
-<div>
+    <div class="profile_div" id="contact_info" style="margin-top:-1em">
+            <dl>
+            <dt><strong>Email:</strong> lbozarth AT umich DOT edu</dt>
+            <dt><strong>Social Media:</strong>
+            <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
+            <a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
+            <a href="https://github.com/lbozarth"><img id="github" class="logo_img_long" src="{{relative}}assets/pics/github.png"  /></a>
+            </dt>
+            </dl>
+    </div>
+</div>
 
 <div id="interests" class="sec_div">
 <h3>Research Interest</h3>

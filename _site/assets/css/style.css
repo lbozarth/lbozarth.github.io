@@ -529,7 +529,7 @@ table {
   color: #90a959; }
 
 body {
-  font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
   font-weight: 300;
   margin: 0px;
@@ -694,8 +694,8 @@ header {
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
-    line-height: 14px;
-    font-size: 14px;
+    line-height: 16px;
+    font-size: 16px;
     color: #333;
     font-weight: bold;
     display: inline-block;
@@ -709,8 +709,8 @@ header {
     margin-left: -325px;
     padding: 10px 12px;
     margin-top: 6px;
-    line-height: 14px;
-    font-size: 14px;
+    line-height: 16px;
+    font-size: 16px;
     background-color: #FFE788; }
   #banner .downloads {
     float: right;
@@ -765,7 +765,7 @@ nav {
   nav ul {
     list-style: none;
     list-style-image: none;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px; }
     nav ul li {
       padding: 5px 0px;
