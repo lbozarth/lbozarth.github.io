@@ -12,16 +12,14 @@ layout: default
 	<div class="profile_div">
 	</div>
     <div class="profile_div" id="contact_info" style="margin-top:-1em">
-            <dl>
             <h3>RESEARCH INTEREST</h3>
-            <p>I'm broadly interested in data science for social good, and I'm particularly interested in researching complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including machine learning (scikit-learn, Tensorflow), natural language processing (topic modeling, word2vec, clustering, BERT), and network analysis (centrality, network cascade, network inference, motifs). My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+            <p>I'm broadly interested in data science for social good, and I'm particularly interested in researching complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including natural language processing (topic modeling, word2vec, entity extraction, NLTK, BERT), network analysis (centrality, network cascade, network inference, motifs), machine learning (scikit-learn, Tensorflow), and statistical analysis. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
             <dt><strong>Email:</strong> lbozarth AT umich DOT edu</dt>
             <dt><strong>Social Media:</strong>
             <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
             <a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
             <a href="https://github.com/lbozarth"><img id="github" class="logo_img_long" src="{{relative}}assets/pics/github.png"  /></a>
             </dt>
-            </dl>
     </div>
 </div>
 
