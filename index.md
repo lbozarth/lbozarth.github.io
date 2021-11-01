@@ -24,7 +24,7 @@ layout: default
 </div>
 
 <div id="bio" class="sec_div">
-    <h3>ABOUT ME</h3>
+    <h3>SHORT BIO</h3>
     <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. I'm currently a 6th year doctoral candidate at the University of Michigan, School of Information.</p>
     <p>Outside of work, I enjoy basketball, badminton, running, weight lifting, horror films, Dungeons and Dragons with my close friends, and teaching my pets new tricks. I have also solo backpacked in Asia and Europe for half a year, and contemplated being a wandering comedian for a time.</p>
 </div>
