@@ -7,7 +7,7 @@ layout: default
 
 <div id="intro" class="sec_div">
 	<div class="profile_div">
-		<img id="profile_image" src="assets/pics/profile5.png" />
+		<img id="profile_image" src="assets/pics/profile6.png" />
 	</div>
 	<div class="profile_div">
 	</div>
