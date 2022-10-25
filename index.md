@@ -11,10 +11,9 @@ layout: default
 	</div>
 	<div class="profile_div">
     <h3>SHORT BIO</h3>
-    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information. I'm currently working as a Data Engineer at the Center for Informed Public (CIP) at the University of Washington, Seattle</p>
+    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information. I'm currently working as a Data Engineer at the Center for Informed Public (CIP) at the University of Washington, Seattle.</p>
     <p>Outside of work, I enjoy basketball, badminton, running, weight lifting, horror films, Dungeons and Dragons with my close friends, and teaching my pets new tricks. I have also solo backpacked in Asia and Europe for half a year, and contemplated being a wandering comedian for a time.</p>
     </div>
-    <br/>
     <div class="profile_div" id="contact_info" style="margin-top:-1em">
         <dt><strong>Email:</strong> lia DOT bozarth AT gmail DOT com</dt>
         <dt><strong>Social Media:</strong>
