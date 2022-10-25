@@ -16,7 +16,7 @@ layout: default
     </div>
     <br/>
     <div class="profile_div" id="contact_info" style="margin-top:-1em">
-        <dt><strong>Email:</strong> lbozarth AT umich DOT edu</dt>
+        <dt><strong>Email:</strong> lia DOT bozarth AT gmail DOT com</dt>
         <dt><strong>Social Media:</strong>
         <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
         <a href="https://www.linkedin.com/in/lia-bozarth-697266140"><img id="linkedin" class="logo_img" src="{{relative}}assets/pics/linkedin.png"  /></a>
