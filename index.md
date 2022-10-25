@@ -13,7 +13,7 @@ layout: default
 	</div>
     <div class="profile_div" id="contact_info" style="margin-top:-1em">
             <h3>RESEARCH INTEREST</h3>
-            <p>I'm broadly interested in data science for social good, and I'm particularly interested in complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including natural language processing (topic modeling, word2vec, entity extraction, NLTK, BERT), network analysis (centrality, network cascade, network inference, motifs), machine learning (scikit-learn, Tensorflow), and statistical analysis. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+            <p>I'm broadly interested in data science for social good, and I'm particularly interested in complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including natural language processing (topic modeling, word2vec, entity extraction, NLTK, BERT), network analysis (centrality, network cascade, network inference, motifs), machine learning (scikit-learn, Tensorflow), and statistical analysis.</p>
             <dt><strong>Email:</strong> lbozarth AT umich DOT edu</dt>
             <dt><strong>Social Media:</strong>
             <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
@@ -25,7 +25,7 @@ layout: default
 
 <div id="bio" class="sec_div">
     <h3>SHORT BIO</h3>
-    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information. I'm currently working as a Data Engineer at the Center for Informed Public (CIP) at the University of Washignton, Seattle</p>
+    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information. I'm currently working as a Data Engineer at the Center for Informed Public (CIP) at the University of Washington, Seattle</p>
     <p>Outside of work, I enjoy basketball, badminton, running, weight lifting, horror films, Dungeons and Dragons with my close friends, and teaching my pets new tricks. I have also solo backpacked in Asia and Europe for half a year, and contemplated being a wandering comedian for a time.</p>
 </div>
 
