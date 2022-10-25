@@ -7,7 +7,7 @@ layout: default
 
 <div id="intro" class="sec_div">
 	<div class="profile_div">
-		<img id="profile_image" src="assets/pics/profile.png" />
+		<img id="profile_image" src="assets/pics/profile.jpg" />
 	</div>
 	<div class="profile_div">
 	</div>
@@ -44,9 +44,9 @@ layout: default
 <li><p>Lia Bozarth, Aparajita Saraf, Ceren Budak, <i>"Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees"</i>, in proceedings, ICWSM (2020). <a href="https://lbozarth.github.io/assets/static/groundtruth.pdf">Download</a></p>
 </li>
 </ol>
-<h4>Political Actors on Social Media Papers</h4>
+<h4>Political Communication on Social Media Papers</h4>
 <ol>
-<li><p>Lia Bozarth, Ceren Budak, "Keyword Expansion Techniques for Mining Social Movement Data on Social Media", EPJ Data Science (2022) <a href="https://lbozarth.github.io/assets/static/keywords.pdf">Download</a></p></p>
+<li><p>Lia Bozarth, Ceren Budak, "Keyword Expansion Techniques for Mining Social Movement Data on Social Media", EPJ Data Science (2022) <a href="https://lbozarth.github.io/assets/static/keywords.pdf">Download</a></p>
 </li>
 <li><p>Chris Quarles, Lia Bozarth “How the Term 'White Privilege' Affects Online Communication", PLOS One (2022) <a href="https://lbozarth.github.io/assets/static/wp.pdf">Download</a></p>
 </li>
