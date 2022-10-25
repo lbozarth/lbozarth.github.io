@@ -25,7 +25,7 @@ layout: default
 
 <div id="bio" class="sec_div">
     <h3>SHORT BIO</h3>
-    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information.</p>
+    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information. I'm currently working as a Data Engineer at the Center for Informed Public (CIP) at the University of Washignton, Seattle</p>
     <p>Outside of work, I enjoy basketball, badminton, running, weight lifting, horror films, Dungeons and Dragons with my close friends, and teaching my pets new tricks. I have also solo backpacked in Asia and Europe for half a year, and contemplated being a wandering comedian for a time.</p>
 </div>
 
