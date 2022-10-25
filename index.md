@@ -7,13 +7,13 @@ layout: default
 
 <div id="intro" class="sec_div">
 	<div class="profile_div">
-		<img id="profile_image" src="assets/pics/profile6.png" />
+		<img id="profile_image" src="assets/pics/profile.png" />
 	</div>
 	<div class="profile_div">
 	</div>
     <div class="profile_div" id="contact_info" style="margin-top:-1em">
             <h3>RESEARCH INTEREST</h3>
-            <p>I'm broadly interested in data science for social good, and I'm particularly interested in researching complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including natural language processing (topic modeling, word2vec, entity extraction, NLTK, BERT), network analysis (centrality, network cascade, network inference, motifs), machine learning (scikit-learn, Tensorflow), and statistical analysis. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
+            <p>I'm broadly interested in data science for social good, and I'm particularly interested in complex sociotechnological systems with vast user-generated content. Thus far, I have published numerous manuscripts in the field of misinformation and online political communications. My projects rely on extensive social media datasets and a diverse range of computational methods including natural language processing (topic modeling, word2vec, entity extraction, NLTK, BERT), network analysis (centrality, network cascade, network inference, motifs), machine learning (scikit-learn, Tensorflow), and statistical analysis. My PI is <a href="http://cbudak.com/index.html">Ceren Budak</a>.</p>
             <dt><strong>Email:</strong> lbozarth AT umich DOT edu</dt>
             <dt><strong>Social Media:</strong>
             <a href="https://twitter.com/lia_bozarth"><img id="twitter" class="logo_img" src="{{relative}}assets/pics/twitter.png"/></a>
@@ -25,7 +25,7 @@ layout: default
 
 <div id="bio" class="sec_div">
     <h3>SHORT BIO</h3>
-    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. I'm currently a 6th year doctoral candidate at the University of Michigan, School of Information.</p>
+    <p>I grew up in the West Coast, and earned my bachelors in Computer Science from the University of Washington, Seattle. I then worked at Amazon and Google as a full stack software engineer for a few years. Recently, I earned my PhD from the University of Michigan, School of Information.</p>
     <p>Outside of work, I enjoy basketball, badminton, running, weight lifting, horror films, Dungeons and Dragons with my close friends, and teaching my pets new tricks. I have also solo backpacked in Asia and Europe for half a year, and contemplated being a wandering comedian for a time.</p>
 </div>
 
@@ -46,6 +46,10 @@ layout: default
 </ol>
 <h4>Political Actors on Social Media Papers</h4>
 <ol>
+<li><p>Lia Bozarth, Ceren Budak, "Keyword Expansion Techniques for Mining Social Movement Data on Social Media", EPJ Data Science (2022) <a href="https://lbozarth.github.io/assets/static/keywords.pdf">Download</a></p></p>
+</li>
+<li><p>Chris Quarles, Lia Bozarth “How the Term 'White Privilege' Affects Online Communication", PLOS One (2022) <a href="https://lbozarth.github.io/assets/static/wp.pdf">Download</a></p>
+</li>
 <li><p>Lia Bozarth, Ceren Budak, "Beyond the Eye-Catchers: a Large-Scale Study of Social Movement Organizations' Involvement in Online Protests", in proceedings, New Media & Society (2020). <a href="https://lbozarth.github.io/assets/static/NMS2020.pdf">Download</a></p>
 </li>
 <li><p>Lia Bozarth, Anmol Panda, Joyojeet Pal, "From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India", in proceedings, ICTD (2020) <a href="https://lbozarth.github.io/assets/static/corruption.pdf">Download</a></p>
@@ -60,10 +64,6 @@ layout: default
 <div id="underreview" class="sec_div">
 <h3>MANUSCRIPTS UNDER REVIEW</h3>
 <ol>
-<li><p>Lia Bozarth, Ceren Budak, "Keyword Expansion Techniques for Mining Social Movement Data on Social Media", submitted to EPJ Data Science</p>
-</li>
-<li><p>Chris Quarles, Lia Bozarth “How the Term 'White Privilege' Affects Online Communication", submitted to PLOS One</p>
-</li>
 <li><p>Ceren Budak, Robert Bond, Lia Bozarth, Kelly Garrett, Jason Jones, Drew Margolin, “Bursts of Co-publication Among High and Low Credibility Online News Publishers Observed on Facebook”, submitted to Science Advances</p>
 </li>
 </ol>
